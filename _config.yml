@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: CS371p Fall 2016: Nicholas Dant
+name: "CS371p Fall 2016: Nicholas Dant"
 
 # Short bio or description (displayed in the header)
 description: Weekly OOP Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars2.githubusercontent.com/u/5974351?v=3&u=369768f820b51c81fd1a3990b51f1eecd75bbe4d&s=140
+avatar: https://avatars0.githubusercontent.com/u/5974351?v=3&s=460.png
 
 #
 # Flags below are optional
@@ -19,11 +19,11 @@ avatar: https://avatars2.githubusercontent.com/u/5974351?v=3&u=369768f820b51c81f
 footer-links:
   dribbble:
   email: n.dant@utexas.edu
-  facebook: https://www.facebook.com/nick.dant.texas
+  facebook: nick.dant.texas
   flickr:
-  github: https://github.com/NickDant
+  github: NickDant
   instagram:
-  linkedin: https://www.linkedin.com/in/nickdant
+  linkedin: nickdant
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
