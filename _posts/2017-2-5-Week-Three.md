@@ -12,7 +12,7 @@ I have been pretty good about starting my work well in advance of the deadline f
 
 #### What will I do next week?
 
-I have found a partner for the next project so I plane on reading the spec for Netflix and getting a good head start. Other than that, I will keep up with the assigned readings.
+I have found a partner for the next project so I plan on reading the spec for Netflix and getting a good head start. Other than that, I will keep up with the assigned readings.
 
 #### What's my experience of the class?
 
