@@ -8,7 +8,7 @@ This past week I spent most of my time getting caught up with school. I didn't h
 
 #### What's in my way?
 
-I have a couple other group projects that I need to divide my time up between so it will be tricky finding the right balance. I want to dedicate enough time for phase two of this project as I don't want it to come down to the last minute. Furthermore, I will need to work together with my team to figure out how we will approach this second phase.
+I have a couple other group projects that I need to divide my time between so it will be tricky finding the right balance. I want to dedicate enough time for phase two of this project as I don't want it to come down to the last minute. Furthermore, I will need to work together with my team to figure out how we will approach this second phase.
 
 #### What will I do next week?
 
